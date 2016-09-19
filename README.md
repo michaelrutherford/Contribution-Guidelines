@@ -43,7 +43,7 @@ A set of contribution guidelines for personal projects.
 ## Commits ##
 * Commit messages must be 80 characters or less.
 * The purpose of the commit should always be clearly defined in the commit message.
-* Don't group together large changes into one commit, break them up into multiple commits.
+* Don't group large changes together into one commit, break them up into multiple commits.
 * Do not end your commit message with punctuation.
 * Commit messages must not contain references to religion, politics, or other personal beliefs.
 * Never make jokes or use vulgar language in commit messages.
